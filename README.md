@@ -8,8 +8,8 @@ python app.py
 ```
 
 
-## Description 
+## Description
 
 
-## An API for a store, written by Flask
-
+## Implementation
+An API for a store, written by Flask
